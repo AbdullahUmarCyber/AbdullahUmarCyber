@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=RandomTale&fontSize=80&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Creator%20%7C%20Problem%20Solver&descAlignY=55&descColor=8b949e" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=AbdullahUmar&fontSize=80&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Creator%20%7C%20Problem%20Solver&descAlignY=55&descColor=8b949e" width="100%"/>
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
@@ -11,11 +11,11 @@
 <br/>
 
 <!-- Profile views + followers badges -->
-[![](https://visitcount.itsvg.in/api?id=RandomTale&icon=3&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=AbdullahUmar&icon=3&color=0)](https://visitcount.itsvg.in)
 &nbsp;
-![GitHub followers](https://img.shields.io/github/followers/RandomTale?style=social)
+![GitHub followers](https://img.shields.io/github/followers/AbdullahUmar?style=social)
 &nbsp;
-![GitHub User's stars](https://img.shields.io/github/stars/RandomTale?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/AbdullahUmar?style=social)
 
 </div>
 
@@ -24,9 +24,9 @@
 ## 👾 About Me
 
 ```python
-class RandomTale:
+class AbdullahUmar:
     def __init__(self):
-        self.name        = "RandomTale"
+        self.name        = "AbdullahUmar"
         self.languages   = ["C", "C++", "Python", "Java", "JavaScript"]
         self.domains     = ["Machine Learning", "Game Dev", "Systems Programming", "Web"]
         self.tools       = ["PyTorch", "TensorFlow", "scikit-learn", "Godot", "Blender"]
@@ -36,7 +36,7 @@ class RandomTale:
     def say_hi(self):
         print("Thanks for dropping by! Let's build something cool together.")
 
-me = RandomTale()
+me = AbdullahUmar()
 me.say_hi()
 ```
 
@@ -47,11 +47,11 @@ me.say_hi()
 <div align="center">
 
 <!-- Add your actual social links below -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/RandomTale)
-[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/RandomTale)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/RandomTale)
-[![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://randomtale.itch.io)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@RandomTale)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/AbdullahUmar)
+[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/AbdullahUmar)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/AbdullahUmar)
+[![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://AbdullahUmar.itch.io)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@AbdullahUmar)
 
 </div>
 
@@ -97,11 +97,11 @@ me.say_hi()
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=RandomTale&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/RandomTale)
+[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=AbdullahUmar&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/AbdullahUmar)
 
 <br/>
 
-[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=RandomTale&theme=tokyonight&hide_border=true)](https://github.com/RandomTale)
+[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=AbdullahUmar&theme=tokyonight&hide_border=true)](https://github.com/AbdullahUmar)
 
 </div>
 
@@ -111,7 +111,7 @@ me.say_hi()
 
 <div align="center">
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=RandomTale&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=6)](https://github.com/RandomTale)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=AbdullahUmar&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=6)](https://github.com/AbdullahUmar)
 
 </div>
 
@@ -121,7 +121,7 @@ me.say_hi()
 
 <div align="center">
 
-[![RandomTale's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RandomTale&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![AbdullahUmar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AbdullahUmar&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
